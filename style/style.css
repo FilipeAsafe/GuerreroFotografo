@@ -194,7 +194,9 @@ body {
     
 
     .container__titulo {
-        background-color: black;
+        /* background-color: black; */
+        padding-top: 85%;
+        color: black;
     }
 
     .container__imagem {
